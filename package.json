@@ -1,0 +1,26 @@
+{
+  "name": "tcp-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "DEBUG=* node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abou7mied/tcp-test.git"
+  },
+  "author": "Ahmed Sabry",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abou7mied/tcp-test/issues"
+  },
+  "homepage": "https://github.com/abou7mied/tcp-test#readme",
+  "devDependencies": {
+    "eslint": "^3.14.1"
+  },
+  "dependencies": {
+    "debug": "^2.6.0"
+  }
+}
